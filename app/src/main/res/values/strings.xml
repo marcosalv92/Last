@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Entidad de Posicionamiento</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="CodigoGPS">CodigoGPS</string>
+    <string name="DetenerGPS">DetenerGPS9208</string>
+</resources>
